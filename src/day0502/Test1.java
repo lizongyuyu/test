@@ -7,7 +7,7 @@ import java.util.Scanner;
 /**
  * ’€∞Î≤È’“
  * @author Nick
- * @version 1.0
+ * @version 1.0.1
  */
 public class Test1 {
 	public static void main(String[] args) {
